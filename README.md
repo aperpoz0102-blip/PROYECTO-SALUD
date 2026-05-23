@@ -1,0 +1,82 @@
+[content.xml](https://github.com/user-attachments/files/28181566/content.xml)
+[index.html](https://github.com/user-attachments/files/28181567/index.html)<!DOCTYPE html>
+<html lang="es" id="exe-index">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Actívate Digital: Diseña tu Vida Saludable </title>
+<link rel="icon" type="image/x-icon" href="libs/favicon.ico">
+<meta name="description" content="Proyecto de Educación Física sobre hábitos saludables y competencia digital">
+<script>document.querySelector("html").classList.add("js");</script><script src="libs/jquery/jquery.min.js"> </script><script src="libs/common_i18n.js"> </script><script src="libs/common.js"> </script><script src="libs/exe_export.js"> </script><script src="libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="libs/bootstrap/bootstrap.min.css">
+<script src="idevices/text/text.js"></script><link rel="stylesheet" href="idevices/text/text.css">
+<link rel="stylesheet" href="content/css/base.css"><script src="theme/style.js"> </script><link rel="stylesheet" href="theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mpin5kno-mmlqqs44j" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li class="active"> <a href="index.html" class="active main-node daddy">Página nueva</a>
+<ul class="other-section">
+<li> <a href="html/inicio.html" class="no-ch">INICIO</a>
+</li>
+</ul>
+</li>
+<li> <a href="html/presentacion-del-proyecto.html" class="no-ch">PRESENTACIÓN DEL PROYECTO</a>
+</li>
+<li> <a href="html/que-vamos-a-aprender.html" class="no-ch">¿QUÉ VAMOS A APRENDER?</a>
+</li>
+<li> <a href="html/proteccion-de-datos.html" class="no-ch">PROTECCIÓN DE DATOS</a>
+</li>
+<li> <a href="html/producto-final.html" class="no-ch">PRODUCTO FINAL</a>
+</li>
+<li> <a href="html/herramientas-.html" class="no-ch">HERRAMIENTAS </a>
+</li>
+<li> <a href="html/linea-temporal-y-actividades.html" class="no-ch">LINEA TEMPORAL Y ACTIVIDADES</a>
+</li>
+<li> <a href="html/evaluacion.html" class="no-ch">EVALUACIÓN</a>
+</li>
+<li> <a href="html/instrumentos-de-evaluacion.html" class="no-ch">INSTRUMENTOS DE EVALUACIÓN</a>
+</li>
+<li> <a href="html/guia-didactica.html" class="no-ch">GUÍA DIDÁCTICA</a>
+</li>
+<li> <a href="html/creditos.html" class="no-ch">CRÉDITOS</a>
+</li>
+</ul>
+</nav><main id="page-mpin5kno-mmlqqs44j" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">Actívate Digital: Diseña tu Vida Saludable </p></div>
+<div class="page-header"><h1 class="page-title">Página nueva</h1></div>
+</header><div id="page-content-page-mpin5kno-mmlqqs44j" class="page-content">
+<article id="block-1779555549587-v4ywjxm8q" class="box no-header">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="theme/icons/alert.svg" alt="">
+</div>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1779555549584-kwpnc7ezs" class="idevice_node text" data-idevice-path="idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1779555549584-kwpnc7ezs&quot;}">
+<div class="exe-text-template">
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg,#4CAF50,#81C784); color: white; border-radius: 10px;">
+<h1>🌱 ACTÍVATE DIGITAL</h1>
+<h2>Diseña tu vida saludable</h2>
+<p><strong>¿Cómo podemos usar la tecnología para mejorar nuestra salud y bienestar?</strong></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<span class="nav-button nav-button-left" aria-hidden="true"><span>Anterior</span></span>
+<a href="html/inicio.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
